@@ -8,7 +8,7 @@
 
 #define PS_ON D1
 #define PS_OK D5
-#define BATTERY_ENABLE D6
+#define BATTERY_ENABLE D7
 
 #define PS_OK_FALSE LOW
 #define BATTERY_ENABLE_FALSE HIGH
